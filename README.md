@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 ## Hi :wave: My name is Oh Won Jin
 ## 🌱 Current Interests
 
-### Machine learning
+- ### Machine learning
 
-### Business Intelligence
+- ### Business Intelligence
 
-### Algorithm
+- ### Algorithm
