@@ -13,8 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## My name is Oh Won Jin
-## Current Interests
-### machine learning
+## Hi :wave: My name is Oh Won Jin
+## 🌱 Current Interests
+
+### Machine learning
+
 ### Business Intelligence
-### algorithm
+
+### Algorithm
