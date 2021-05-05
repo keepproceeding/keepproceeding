@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 ## Hi :wave: My name is Oh Won Jin
 ## 🌱 Current Interests
 
-- ### Machine Learning
+- ### Machine Learning & Deep Learning
 
-- ### Medical Statistics
+- ### Medical Statistics & Finanace
 
-- ### CV
+- ### [CV](https://www.notion.so/Won-Jin-Oh-749b5927eb264b22a3ac5a02bd4d6179)
